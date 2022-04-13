@@ -1,0 +1,4 @@
+class_ID,class_type,num_of_students,students,start_date,week_day,class_time,num_classes,course_name,parent_email,parent_number,tutor,status,created_by,create_date,modified_date
+6246db5f39c55da614f26df6,PT,2,"['John DIbashi', 'Peace Doe']",01-04-2022,Tuesday,12:40,6,App Dev,natashastone4128@gmail.com,+7081169764,2038597944,completed,John,2022-04-01 12:00:47.579000,2022-04-05 00:38:03.001000
+6252962c0219f44011b06e38,PT,1,['Test Student'],10-04-2022,Sunday,10:30,4,Intermediate lessons in Scratch,['natashastone4128@gmail.com'],['+2347065117614'],2038597944,completed,John,2022-04-10 09:32:44.542000,2022-04-10 09:59:46.046000
+625381df4a6560188a6f46e3,PT,2,"['Rahim Adio', ' Garen Okpsa']",11-04-2022,Monday,16:30,4,Web Design II - Intermediate HTML and CSS,"['natashastone4128@gmail.com', 'alert.screentime@gmail.com']","['+2347065117614', '+2347081169764']",2038597944,completed,John,2022-04-11 02:18:23.332000,2022-04-11 02:56:17.465000
